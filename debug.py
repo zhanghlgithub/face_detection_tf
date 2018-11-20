@@ -1,6 +1,11 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Fri Nov 16 22:00:17 2018
+
+@author: zhl
+"""
 
 import sys
-import os
 
 class DebugTool():
     '''function：封装一些调试常用的函数'''
@@ -36,7 +41,3 @@ class DebugTool():
             #do nothing 
             pass
  
-def get_file():
-    
-    return os.path.basename(sys._getframe().f_code.co_filename)
-    
