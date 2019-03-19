@@ -1,5 +1,5 @@
 # tensorflow face deteector
-The face detection model based on faster- RCNN resnet101 SSD,  data from wider-face
+The face detection model data from wider-face
 
 ## Model performance
 Speed: based on nvidia GTX1070ti 12G memory per second to reach about 30fp
