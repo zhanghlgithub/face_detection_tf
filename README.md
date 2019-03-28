@@ -2,7 +2,7 @@
 The face detection model data from wider-face，base on Faster R-CNN
 
 ## Model performance
-Speed: based on nvidia GTX1070ti 12G memory per second to reach about 60fps
+Speed: based on nvidia GTX1070ti 12G memory per second to reach about 30fps
 
 ## Instructions for use:
 Baidu cloud download already trained frozen_inference_graph.pb model (about 180 m), the link: https://pan.baidu.com/s/1JyT8wbH4cjzE5LBSqsMdZQ extract code:3dt5, replacement model files directoryfrozen_inference_graph.pb   
